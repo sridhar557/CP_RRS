@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Individual,Chrome 72.0.3626.109,,2019-02-18 16:47:15,2019-02-18 16:47:59,43.920s,PASSED
+,,,,,,
+Test Cases/Login/Login with invalid credentials,Chrome 72.0.3626.109,,2019-02-18 16:47:16,2019-02-18 16:47:29,13.514s,PASSED
+"openBrowser(""https://cpdevapi.rrs360.com/login"")",Chrome 72.0.3626.109,Launching the URL,2019-02-18 16:47:16,2019-02-18 16:47:23,7.338s,PASSED
+maximizeWindow(),Chrome 72.0.3626.109,Maximizing the Browser Window,2019-02-18 16:47:23,2019-02-18 16:47:25,1.154s,PASSED
+"click(findTestObject(""Page_Login/SignIn""))",Chrome 72.0.3626.109,Clicking on Signin button,2019-02-18 16:47:25,2019-02-18 16:47:26,1.196s,PASSED
+"sendKeys(findTestObject(""Page_Login/Username""), ""Test@techolution.com"")",Chrome 72.0.3626.109,Entering invalid username,2019-02-18 16:47:26,2019-02-18 16:47:26,0.121s,PASSED
+"sendKeys(findTestObject(""Page_Login/Password""), ""TestQA"")",Chrome 72.0.3626.109,Entering invalid password,2019-02-18 16:47:26,2019-02-18 16:47:26,0.061s,PASSED
+"click(findTestObject(""Page_Login/Sign In button""))",Chrome 72.0.3626.109,Clicking on SignIn Button,2019-02-18 16:47:26,2019-02-18 16:47:27,0.978s,PASSED
+,,,,,,
+Test Cases/Login/Login with valid credentials,Chrome 72.0.3626.109,,2019-02-18 16:47:29,2019-02-18 16:47:45,16.050s,PASSED
+com.kazurayam.ksbackyard.HighlightElement.pandemic(),Chrome 72.0.3626.109,,2019-02-18 16:47:29,2019-02-18 16:47:29,0.024s,PASSED
+"openBrowser(""https://cpdevapi.rrs360.com/login"")",Chrome 72.0.3626.109,Launching the URL,2019-02-18 16:47:29,2019-02-18 16:47:36,6.715s,PASSED
+maximizeWindow(),Chrome 72.0.3626.109,Maximizing the Browser Window,2019-02-18 16:47:36,2019-02-18 16:47:37,1.115s,PASSED
+"click(findTestObject(""Page_Login/SignIn""))",Chrome 72.0.3626.109,Clicking on Signin button,2019-02-18 16:47:37,2019-02-18 16:47:38,1.159s,PASSED
+"com.kazurayam.ksbackyard.HighlightElement.on(findTestObject(""Page_Login/Username""))",Chrome 72.0.3626.109,Highlight Username Field,2019-02-18 16:47:38,2019-02-18 16:47:38,0.071s,PASSED
+"sendKeys(findTestObject(""Page_Login/Username""), ""rrssuperadmin@techolution.com"")",Chrome 72.0.3626.109,Entering valid username,2019-02-18 16:47:38,2019-02-18 16:47:38,0.118s,PASSED
+"com.kazurayam.ksbackyard.HighlightElement.on(findTestObject(""Page_Login/Password""))",Chrome 72.0.3626.109,Highlight Password Field,2019-02-18 16:47:38,2019-02-18 16:47:38,0.024s,PASSED
+"sendKeys(findTestObject(""Page_Login/Password""), ""j@mIefR0s7"")",Chrome 72.0.3626.109,Entering valid password,2019-02-18 16:47:38,2019-02-18 16:47:38,0.063s,PASSED
+"com.kazurayam.ksbackyard.HighlightElement.on(findTestObject(""Page_Login/Sign In button""))",Chrome 72.0.3626.109,Highlight Signin button,2019-02-18 16:47:38,2019-02-18 16:47:39,0.023s,PASSED
+"click(findTestObject(""Page_Login/Sign In button""))",Chrome 72.0.3626.109,Clicking on SignIn Button,2019-02-18 16:47:39,2019-02-18 16:47:42,3.954s,PASSED
+closeBrowser(),Chrome 72.0.3626.109,Closing the browser,2019-02-18 16:47:42,2019-02-18 16:47:43,0.611s,PASSED
+,,,,,,
+Test Cases/Login/URL Validation,Chrome 72.0.3626.109,,2019-02-18 16:47:45,2019-02-18 16:47:59,14.133s,PASSED
+"openBrowser(""https://cpdevapi.rrs360.com/auth/login"")",Chrome 72.0.3626.109,,2019-02-18 16:47:45,2019-02-18 16:47:49,3.780s,PASSED
+maximizeWindow(),Chrome 72.0.3626.109,Maximising the window,2019-02-18 16:47:49,2019-02-18 16:47:50,1.147s,PASSED
+LaunchedURL = getUrl(),Chrome 72.0.3626.109,Validate click action results in opening target page,2019-02-18 16:47:50,2019-02-18 16:47:50,0.022s,PASSED
+"sendKeys(findTestObject(""Page_Login/Username""), ""rrssuperadmin@techolution.com"")",Chrome 72.0.3626.109,Entering valid username,2019-02-18 16:47:50,2019-02-18 16:47:50,0.121s,PASSED
+"sendKeys(findTestObject(""Page_Login/Password""), ""j@mIefR0s7"")",Chrome 72.0.3626.109,Entering valid password,2019-02-18 16:47:50,2019-02-18 16:47:50,0.061s,PASSED
+"click(findTestObject(""Page_Login/Sign In button""))",Chrome 72.0.3626.109,Clicking on SignIn Button,2019-02-18 16:47:50,2019-02-18 16:47:56,5.891s,PASSED
+CurrentURL = getUrl(),Chrome 72.0.3626.109,Validate click action results in opening target page,2019-02-18 16:47:56,2019-02-18 16:47:56,0.007s,PASSED
+if (CurrentURL.equals(LaunchedURL)),Chrome 72.0.3626.109,Comparing and Validating the Launched URL with Current URL,2019-02-18 16:47:56,2019-02-18 16:47:56,0.002s,PASSED
+else,Chrome 72.0.3626.109,,2019-02-18 16:47:56,2019-02-18 16:47:56,0.005s,PASSED
+"click(findTestObject(""Profile/Profile Page/Profile Page/Page_RRS/Profile Icon""))",Chrome 72.0.3626.109,Clicking on user profile Icon,2019-02-18 16:47:56,2019-02-18 16:47:56,0.097s,PASSED
+"click(findTestObject(""Profile/Profile Page/Profile Page/Page_RRS/Page_RRS/button_Logout""))",Chrome 72.0.3626.109,Clicking on logout link,2019-02-18 16:47:56,2019-02-18 16:47:57,0.201s,PASSED
+closeBrowser(),Chrome 72.0.3626.109,Closing the browser,2019-02-18 16:47:57,2019-02-18 16:47:57,0.613s,PASSED

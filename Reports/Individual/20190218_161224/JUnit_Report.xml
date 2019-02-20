@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Individual" time="44" tests="3" failures="0" errors="0">
+   <testsuite name="Individual" tests="3" failures="0" errors="0" time="44" timestamp="2019-02-18 16:12:25" hostname="TECHOLUTION - DESKTOP-985PVAQ" id="Test Suites/Individual">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\TECHOLUTION\\Desktop\\RRS Project\\10 th jan\\RRS\\Reports\\Individual\\20190218_161224"/>
+         <property name="logFiles" value="C:\\Users\\TECHOLUTION\\Desktop\\RRS Project\\10 th jan\\RRS\\Reports\\Individual\\20190218_161224\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="TECHOLUTION - DESKTOP-985PVAQ"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.10.1.1"/>
+         <property name="browser" value="Chrome 72.0.3626.109"/>
+         <property name="hostAddress" value="192.168.198.1"/>
+         <property name="sessionId" value="96b11efd5f8c9d7d07c6c0b0749c90b3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login/Login with invalid credentials" classname="Test Cases/Login/Login with invalid credentials" status="PASSED">
+         <system-out><![CDATA[2019-02-18 16:12:25 - [TEST_CASE][PASSED] - Test Cases/Login/Login with invalid credentials: Test Cases/Login/Login with invalid credentials
+
+2019-02-18 16:12:26 - [TEST_STEP][PASSED] - openBrowser("https://cpdevapi.rrs360.com/login"): Browser is opened with url: 'https://cpdevapi.rrs360.com/login'
+
+2019-02-18 16:12:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-18 16:12:26 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-02-18 16:12:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://cpdevapi.rrs360.com/login'
+
+2019-02-18 16:12:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-18 16:12:34 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-18 16:12:34 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/SignIn")): Object: 'Object Repository/Page_Login/SignIn' is clicked on
+
+2019-02-18 16:12:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/SignIn' is clicked on
+
+2019-02-18 16:12:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Username"), "Test@techolution.com"): Keys 'Test@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:12:36 - [MESSAGE][PASSED] - Keys 'Test@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:12:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Password"), "TestQA"): Keys 'TestQA' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:12:36 - [MESSAGE][PASSED] - Keys 'TestQA' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:12:36 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/Sign In button")): Object: 'Object Repository/Page_Login/Sign In button' is clicked on
+
+2019-02-18 16:12:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/Sign In button' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/Login with valid credentials" classname="Test Cases/Login/Login with valid credentials" status="PASSED">
+         <system-out><![CDATA[2019-02-18 16:12:39 - [TEST_CASE][PASSED] - Test Cases/Login/Login with valid credentials: Test Cases/Login/Login with valid credentials
+
+2019-02-18 16:12:39 - [TEST_STEP][PASSED] - com.kazurayam.ksbackyard.HighlightElement.pandemic(): com.kazurayam.ksbackyard.HighlightElement.pandemic is PASSED
+
+2019-02-18 16:12:39 - [MESSAGE][PASSED] - com.kazurayam.ksbackyard.HighlightElement.pandemic is PASSED
+
+2019-02-18 16:12:39 - [TEST_STEP][PASSED] - openBrowser("https://cpdevapi.rrs360.com/login"): Browser is opened with url: 'https://cpdevapi.rrs360.com/login'
+
+2019-02-18 16:12:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-02-18 16:12:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-18 16:12:46 - [MESSAGE][PASSED] - Browser is opened with url: 'https://cpdevapi.rrs360.com/login'
+
+2019-02-18 16:12:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-18 16:12:47 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-18 16:12:47 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/SignIn")): Object: 'Object Repository/Page_Login/SignIn' is clicked on
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/SignIn' is clicked on
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on(findTestObject("Page_Login/Username")): com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Username"), "rrssuperadmin@techolution.com"): Keys 'rrssuperadmin@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - Keys 'rrssuperadmin@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on(findTestObject("Page_Login/Password")): com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Password"), "j@mIefR0s7"): Keys 'j@mIefR0s7' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - Keys 'j@mIefR0s7' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on(findTestObject("Page_Login/Sign In button")): com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [MESSAGE][PASSED] - com.kazurayam.ksbackyard.HighlightElement.on is PASSED
+
+2019-02-18 16:12:48 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/Sign In button")): Object: 'Object Repository/Page_Login/Sign In button' is clicked on
+
+2019-02-18 16:12:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/Sign In button' is clicked on
+
+2019-02-18 16:12:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-02-18 16:12:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login/URL Validation" classname="Test Cases/Login/URL Validation" status="PASSED">
+         <system-out><![CDATA[2019-02-18 16:12:55 - [TEST_CASE][PASSED] - Test Cases/Login/URL Validation: Test Cases/Login/URL Validation
+
+2019-02-18 16:12:55 - [TEST_STEP][PASSED] - openBrowser("https://cpdevapi.rrs360.com/auth/login"): Browser is opened with url: 'https://cpdevapi.rrs360.com/auth/login'
+
+2019-02-18 16:12:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-02-18 16:12:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://cpdevapi.rrs360.com/auth/login'
+
+2019-02-18 16:12:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2019-02-18 16:13:01 - [MESSAGE][PASSED] - Current window maximized
+
+2019-02-18 16:13:01 - [TEST_STEP][PASSED] - LaunchedURL = getUrl(): Current window's url is: 'https://cpdevapi.rrs360.com/auth/login'
+
+2019-02-18 16:13:01 - [MESSAGE][PASSED] - Current window's url is: 'https://cpdevapi.rrs360.com/auth/login'
+
+2019-02-18 16:13:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Username"), "rrssuperadmin@techolution.com"): Keys 'rrssuperadmin@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:13:01 - [MESSAGE][PASSED] - Keys 'rrssuperadmin@techolution.com' sent to object: 'Object Repository/Page_Login/Username'
+
+2019-02-18 16:13:01 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Login/Password"), "j@mIefR0s7"): Keys 'j@mIefR0s7' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:13:01 - [MESSAGE][PASSED] - Keys 'j@mIefR0s7' sent to object: 'Object Repository/Page_Login/Password'
+
+2019-02-18 16:13:01 - [TEST_STEP][PASSED] - click(findTestObject("Page_Login/Sign In button")): Object: 'Object Repository/Page_Login/Sign In button' is clicked on
+
+2019-02-18 16:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/Sign In button' is clicked on
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - CurrentURL = getUrl(): Current window's url is: 'https://cpdev.rrs360.com/home/index'
+
+2019-02-18 16:13:06 - [MESSAGE][PASSED] - Current window's url is: 'https://cpdev.rrs360.com/home/index'
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - if (CurrentURL.equals(LaunchedURL)): null
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - else: null
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - println("URLS not matching:-Current URL is " + CurrentURL + " Launched URL is " + LaunchedURL): null
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - click(findTestObject("Profile/Profile Page/Profile Page/Page_RRS/Profile Icon")): Object: 'Object Repository/Profile/Profile Page/Profile Page/Page_RRS/Profile Icon' is clicked on
+
+2019-02-18 16:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Profile Page/Profile Page/Page_RRS/Profile Icon' is clicked on
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - click(findTestObject("Profile/Profile Page/Profile Page/Page_RRS/Page_RRS/button_Logout")): Object: 'Object Repository/Profile/Profile Page/Profile Page/Page_RRS/Page_RRS/button_Logout' is clicked on
+
+2019-02-18 16:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Profile/Profile Page/Profile Page/Page_RRS/Page_RRS/button_Logout' is clicked on
+
+2019-02-18 16:13:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-02-18 16:13:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-02-18 16:12:25 - [TEST_SUITE][PASSED] - Individual: Test Cases/Login/URL Validation]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Scripts_Viewall</name>
+   <tag></tag>
+   <elementGuidId>9763ba7f-e844-478f-b684-2d2a17d46922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-tab-content-4-0&quot;]/div/mat-card-content/div/div[2]/div/div[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-tab-content-4-0&quot;]/div/mat-card-content/div/div[2]/div/div[14]</value>
+   </webElementProperties>
+</WebElementEntity>

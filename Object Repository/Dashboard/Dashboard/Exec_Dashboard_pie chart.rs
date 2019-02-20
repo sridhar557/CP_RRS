@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Exec_Dashboard_pie chart</name>
+   <tag></tag>
+   <elementGuidId>8051bb8f-0a3c-41f8-bdee-e5b74a365eaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[3]/div[1]/div[1]/mat-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>scale(-1, 1)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M94.70348462437906,2.220446049250313e-14A7.5,7.5,0,0,1,102.1800755157774,8.092105263157919A102.5,102.5,0,1,1,101.79496017805617,-12.001503336997413A7.5,7.5,0,0,1,94.63393381232626,-3.6288526016155984L94.63393381232625,-3.6288526016155984A7.5,7.5,0,0,1,86.89813673736501,-10.245185775485595A87.5,87.5,0,1,0,87.2268937329807,6.907894736842126A7.5,7.5,0,0,1,94.70348462437906,2.220446049250313e-14Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[3]/div[1]/div[1]/mat-card</value>
+   </webElementProperties>
+</WebElementEntity>

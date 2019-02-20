@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Company_Dropdown</name>
+   <tag></tag>
+   <elementGuidId>da597402-db0c-41ab-9810-b6c49e85f6b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-email-invite/div/div/mat-card-content/form/div[2]/mat-form-field/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-wrapper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CompanyCompany</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-email-invite[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dialog-box&quot;]/div[@class=&quot;dialog-content&quot;]/mat-card-content[@class=&quot;mat-card-content&quot;]/form[@class=&quot;form ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c27-11 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-hide-placeholder ng-pristine ng-invalid ng-star-inserted mat-form-field-invalid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-email-invite/div/div/mat-card-content/form/div[2]/mat-form-field/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//mat-form-field/div</value>
+   </webElementXpaths>
+</WebElementEntity>

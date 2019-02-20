@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter Icon</name>
+   <tag></tag>
+   <elementGuidId>75e9a1ad-abea-4c24-b92e-c670c2295572</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='filter']/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQ
+            WRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0
+            +CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94
+            bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA1MTEuOTk5IDUxMS45OTkiIH
+            N0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMS45OTkgNTExLjk5OTsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIy
+            NHB4IiBoZWlnaHQ9IjI0cHgiPgo8Zz4KCTxnPgoJCTxwYXRoIGQ9Ik01MTAuMDc4LDM1LjUwOWMtMy4zODgtNy4zMDQtMTAuNzA5LTExLj
+            k3Ny0xOC43NjEtMTEuOTc3SDIwLjY4MmMtOC4wNTEsMC0xNS4zNzIsNC42NzItMTguNzYxLDExLjk3NyAgICBzLTIuMjMsMTUuOTExLDIu
+            OTY5LDIyLjA2bDE4My4zNjQsMjE2LjgyOHYxNDYuMzI0YzAsNy44MzMsNC40MjYsMTQuOTk1LDExLjQzMywxOC40OTlsOTQuMTI3LDQ3Lj
+            A2MyAgICBjMi45MTksMS40Niw2LjA4OCwyLjE4Myw5LjI0OSwyLjE4M2MzLjc4MiwwLDcuNTUyLTEuMDM2LDEwLjg3NC0zLjA4OWM2LjA5
+            Ny0zLjc2OSw5LjgwOS0xMC40MjYsOS44MDktMTcuNTk0VjI3NC4zOTcgICAgTDUwNy4xMSw1Ny41NjlDNTEyLjMwOSw1MS40Miw1MTMuND
+            Y2LDQyLjgxMyw1MTAuMDc4LDM1LjUwOXogTTI4Ny4yNywyNTMuNDY5Yy0zLjE1NywzLjczNC00Ljg4OSw4LjQ2Ni00Ljg4OSwxMy4zNTVW
+            NDM0LjMyICAgIGwtNTIuNzYzLTI2LjM4MVYyNjYuODI1YzAtNC44OS0xLjczMy05LjYyMS00Ljg5LTEzLjM1NUw2NS4yNTksNjQuODk2aD
+            M4MS40ODJMMjg3LjI3LDI1My40Njl6IiBmaWxsPSIjMDA2NWE0Ii8+Cgk8L2c+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4K
+            PGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz
+            4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filter&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//button[@id='filter']/span/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::img[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Alerts'])[1]/preceding::img[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//button/span/img</value>
+   </webElementXpaths>
+</WebElementEntity>

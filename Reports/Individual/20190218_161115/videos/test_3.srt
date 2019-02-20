@@ -1,0 +1,44 @@
+1
+00:00:00,155 --> 00:00:00,156
+1. openBrowser("https://cpdevapi.rrs360.com/auth/login")
+
+2
+00:00:04,425 --> 00:00:04,426
+7. Maximising the window
+
+3
+00:00:05,548 --> 00:00:05,548
+13. Validate click action results in opening target page
+
+4
+00:00:05,565 --> 00:00:05,566
+19. Entering valid username
+
+5
+00:00:05,674 --> 00:00:05,675
+25. Entering valid password
+
+6
+00:00:05,736 --> 00:00:05,736
+31. Clicking on SignIn Button
+
+7
+00:00:12,444 --> 00:00:12,445
+37. Validate click action results in opening target page
+
+8
+00:00:12,461 --> 00:00:12,462
+43. Comparing and Validating the Launched URL with Current URL
+
+9
+00:00:12,464 --> 00:00:12,464
+2. println("URLS not matching:-Current URL is " + CurrentURL + " Launched URL is " + LaunchedURL)
+
+10
+00:00:12,467 --> 00:00:12,468
+49. Clicking on user profile Icon
+
+11
+00:00:12,547 --> 00:00:12,547
+55. Clicking on logout link
+

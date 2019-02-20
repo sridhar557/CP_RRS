@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Revolution_Avail_Count</name>
+   <tag></tag>
+   <elementGuidId>50500558-b2d5-4cd4-9938-f6595584d487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[2]/app-revolution-availability/div/div/mat-card/mat-card-content/div/div[2]/div[1]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[2]/app-revolution-availability/div/div/mat-card/mat-card-content/div/div[2]/div[1]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

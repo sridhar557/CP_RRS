@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Online_Percentage</name>
+   <tag></tag>
+   <elementGuidId>19c4c56d-5cda-4a10-9588-bbcb35a05d30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[2]/app-revolution-availability/div/div/mat-card/mat-card-content/div/div[1]/div[2]/app-donut-chart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div[1]/app-main/div/mat-sidenav-container/mat-sidenav-content/div/app-executive-dashboard/div[2]/app-revolution-availability/div/div/mat-card/mat-card-content/div/div[1]/div[2]/app-donut-chart</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>91b47110-ad13-4962-a085-de40e4770c0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>scale(-1, 1)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M94.70348462437906,2.220446049250313e-14A7.5,7.5,0,0,1,102.1800755157774,8.092105263157919A102.5,102.5,0,1,1,101.79496017805617,-12.001503336997413A7.5,7.5,0,0,1,94.63393381232626,-3.6288526016155984L94.63393381232625,-3.6288526016155984A7.5,7.5,0,0,1,86.89813673736501,-10.245185775485595A87.5,87.5,0,1,0,87.2268937329807,6.907894736842126A7.5,7.5,0,0,1,94.70348462437906,2.220446049250313e-14Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;content dashboard-wrapper&quot;]/app-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[@class=&quot;content dashboard-wrapper&quot;]/app-executive-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;section-2&quot;]/div[@class=&quot;report-wrapper&quot;]/div[@class=&quot;report-container donut-container ng-star-inserted&quot;]/mat-card[@class=&quot;donut-chart mat-card&quot;]/app-donut-chart[1]/svg[1]/g[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
